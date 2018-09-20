@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+
+    background-color: yellowgreen;
+    height: 120px;
+    border: solid black;
+    
+}
+span{
+
+    background-color: red;
+    height: 500px;
+}
+p{
+    background-color: purple;
+    height: 120px;
+}
